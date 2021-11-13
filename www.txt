@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>页面</title>
+    <style>
+    div{
+          width: 1500px;
+          height:1000px;
+          background-color:pink;
+         color:blue;
+         }
+    </style>
+</head>
+
+<body>
+<a herf="https://www.sdu.edu.cn/" target="_self">山大官网</a>
+<a herf="https://www.bkjx.sdu.edu.cn/" target="_self">本科生院</a>
+<a herf="https://service.sdu.edu.cn/tp_up/view?m=up#act=portal/viewhome" target="_self">信息服务</a>
+<a herf="http://oj.qd.sdu.edu.cn" target="_self">快乐oj</a>
+<h4>课程表</h4>
+    <div align="center">
+     <img src="t.jpg"  width="800" />
+     
+<h4>座次表</h4>
+<table align="center" border="1" cellpadding="10" cellspacing="0" width="1000">
+    <tr><td>第一排</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>第二排</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>第三排</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>第四排</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>第五排</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>第六排</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>第七排</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    </table> 
+</div>
+
+</body>
+
+</html>
